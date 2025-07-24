@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BITX](https://github.com/Mohamed-Shahata/btix-Backend.git)
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nodejs, Laravel, React**
 
 - 💬 Ask me about **Nodejs, React, Nestjs**
 
