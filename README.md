@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Laravel, React**
 
-- 💬 Ask me about **Nodejs, React, Nestjs**
+- 💬 Ask me about **Nodejs, Nestjs**
 
 - 📫 How to reach me **mohamedmrslan@gmail.com**
 
