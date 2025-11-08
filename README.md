@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-shahata" alt="mohamed-shahata" /></a> </p>
 
-- 🔭 I’m currently working on [BITX](https://github.com/Mohamed-Shahata/btix-Backend.git)
+- 🔭 I’m currently working on [Booking-Platform](https://github.com/Mohamed-Shahata/booking-platform.git)
 
 - 🌱 I’m currently learning **Nodejs, Laravel, React**
 
