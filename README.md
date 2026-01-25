@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
-<h3 align="center">Mohamed Shehata— Backend Developer (Node.js & NestJS) with 3 Years of Experience | Passionate about building scalable and secure APIs.</h3>
+<h3 align="center">Mohamed Shehata — Full-Stack Developer (React, Node.js & NestJS) | 3+ Years of Experience in building modern user interfaces and scalable backend systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-shahata&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-shahata" /> </p>
 
