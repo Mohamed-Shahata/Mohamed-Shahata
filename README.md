@@ -1,33 +1,130 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
-<h3 align="center">Mohamed Shehata — Full-Stack Developer (React, Node.js & NestJS) | 3+ Years of Experience in building modern user interfaces and scalable backend systems.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-shahata&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-shahata" /> </p>
+# Mohamed Shehata
+### Backend-Focused Full-Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-shahata" alt="mohamed-shahata" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=NestJS+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Redis;Building+Scalable+Backend+Systems;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Booking-Platform](https://github.com/Mohamed-Shahata/booking-platform.git)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamed-shahata&label=Profile+Views&color=00b4d8&style=flat-square)](https://github.com/Mohamed-Shahata)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shahata-895708261)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@dev-core-1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1cagsk18g4/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev_core_1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedmrslan@gmail.com)
 
-- 🌱 I’m currently learning **Nodejs, Laravel, React**
+</div>
 
-- 💬 Ask me about **Nodejs, Nestjs**
+---
 
-- 📫 How to reach me **mohamedmrslan@gmail.com**
+## 👨‍💻 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lptUK2AqD5TVCPJOOTkBVGPst3MDG63D/view?usp=drivesdk](https://drive.google.com/file/d/1RPknoZBLwTqSoBocUjrHrb8mGEFuOegz/view?usp=drivesdk)
+I'm a **Backend-Focused Full-Stack Developer** from Egypt with **3+ years of experience** building production-grade systems using **NestJS**, **Node.js**, and **TypeScript**. I specialize in designing scalable REST APIs, multi-tenant SaaS architectures, and full-stack web applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-shahata-895708261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-shahata-895708261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1cagsk18g4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1cagsk18g4/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dev_core_1?igsh=mtl0ewvimdgzem5rnw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dev_core_1?igsh=mtl0ewvimdgzem5rnw==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@dev-core-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dev-core-1" height="30" width="40" /></a>
-</p>
+Beyond code, I run **[Dev-Core](https://www.youtube.com/@dev-core-1)** — a tech content brand where I simplify complex programming concepts for the Arab developer community across YouTube, TikTok, and Facebook.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 Currently building: **[Booking Platform](https://github.com/Mohamed-Shahata/booking-platform.git)**
+- 🏗️ Experienced with: **Multi-tenant SaaS**, **Restaurant Systems**, **Clinic Management**
+- 🌍 Languages: **Arabic** (Native), **English** (Professional)
+- 📄 [View My Resume](https://drive.google.com/file/d/1RPknoZBLwTqSoBocUjrHrb8mGEFuOegz/view?usp=drivesdk)
+- 📫 Reach me at: **mohamedmrslan@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-shahata&show_icons=true&locale=en&layout=compact" alt="mohamed-shahata" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-shahata&show_icons=true&locale=en" alt="mohamed-shahata" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahata&" alt="mohamed-shahata" /></p>
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Clinic Management SaaS
+> Multi-tenant SaaS platform targeting the Egyptian healthcare market
+
+- **Stack:** NestJS · Next.js 14 · Prisma · PostgreSQL · Redis
+- **Features:** Multi-role RBAC (SuperAdmin, DoctorAdmin, Doctor, Receptionist), appointments queue, patient records, prescriptions, billing with installments, subscription management, i18n Arabic/English, PWA
+- **Highlights:** JWT auth lifecycle, audit logs, Cloudinary media, Nodemailer, PM2 deployment
+
+---
+
+### 🍽️ Restaurant Management System
+> Full-featured backend for restaurant operations
+
+- **Stack:** NestJS · TypeScript · Prisma · PostgreSQL · Cloudinary
+- **Features:** Menu management with image uploads, order management, seed data pipeline
+- **Highlights:** Modular NestJS architecture, Cloudinary integration, PostgreSQL on Neon
+
+---
+
+### 🔖 Booking Platform
+> Currently in development — a scalable booking solution
+
+- **Repo:** [booking-platform](https://github.com/Mohamed-Shahata/booking-platform.git)
+- **Stack:** NestJS · TypeScript · PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-shahata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahata&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahata&theme=tokyonight&hide_border=true)](https://github.com/Mohamed-Shahata)
+
+</div>
+
+---
+
+## 🎙️ Dev-Core — Content Creation
+
+I run **Dev-Core**, a programming content brand for the Arab developer community. I create educational content in a simplified, comedic style covering backend development, system design, AI, and cybersecurity.
+
+| Platform | Channel |
+|----------|---------|
+| 🎥 YouTube | [@Dev-Core-1](https://www.youtube.com/@dev-core-1) |
+| 🎵 TikTok | [@devcore1](https://www.tiktok.com/@devcore1) |
+| 📘 Facebook | [Dev-Core Page](https://www.facebook.com/share/1cagsk18g4/) |
+| 📸 Instagram | [@dev_core_1](https://www.instagram.com/dev_core_1) |
+
+---
+
+<div align="center">
+
+### 💬 Ask me about NestJS, Node.js, System Design, or Backend Architecture
+
+**Let's build something great together.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shahata-895708261)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmrslan@gmail.com)
+
+</div>
