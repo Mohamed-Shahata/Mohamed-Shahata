@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend-Focused Full-Stack Developer** from Egypt with **3+ years of experience** building production-grade systems using **NestJS**, **Node.js**, and **TypeScript**. I specialize in designing scalable REST APIs, multi-tenant SaaS architectures, and full-stack web applications.
+I'm a **Backend-Focused Full-Stack Developer** from Egypt with **2+ years of experience** building production-grade systems using **NestJS**, **Node.js**, and **TypeScript**. I specialize in designing scalable REST APIs, multi-tenant SaaS architectures, and full-stack web applications.
 
 Beyond code, I run **[Dev-Core](https://www.youtube.com/@dev-core-1)** — a tech content brand where I simplify complex programming concepts for the Arab developer community across YouTube, TikTok, and Facebook.
 
