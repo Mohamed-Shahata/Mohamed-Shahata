@@ -19,11 +19,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Mohamed-Shahata
 
+      - name: Install resvg
+        run: |
+          curl -L -o resvg.zip https://github.com/RazrFalcon/resvg/releases/latest/download/resvg-linux-x86_64.zip
+          unzip resvg.zip -d resvg-bin
+          sudo mv resvg-bin/resvg /usr/local/bin/resvg
+          sudo chmod +x /usr/local/bin/resvg
+
       - name: Convert SVG to static PNG
         run: |
-          sudo apt-get update -y
-          sudo apt-get install -y librsvg2-bin
-          rsvg-convert -w 1400 profile-3d-contrib/profile-night-rainbow.svg -o profile-3d-contrib/profile-night-rainbow.png
+          resvg --width 1400 profile-3d-contrib/profile-night-rainbow.svg profile-3d-contrib/profile-night-rainbow.png
 
       - name: Commit and push
         run: |
