@@ -56,7 +56,7 @@
 
 ### 🧊 3D Contribution Calendar
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/my_project/profile-3d-contrib/profile-night-rainbow.png" alt="3D Contribution Calendar" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/my_project/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 ---
