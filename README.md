@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
-<h3 align="center">Full-Stack Developer | Backend-Focused (Node.js · NestJS · React · Next.js · TypeScript)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Node.js+%7C+NestJS+%7C+TypeScript;React+%7C+Next.js+%7C+Tailwind+CSS;Building+ERP-Lite+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-shahata-895708261" target="_blank">
@@ -53,6 +56,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+---
+
+### 🕒 Local Time (Egypt)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohamed-Shahata&theme=radical" alt="WakaTime Stats" />
+</p>
+
+> ملحوظة: الساعة الحية (ديجيتال كلوك بتتحدث لحظيًا) بتتعمل بـ action اسمه `Yasin-Prime/digital-clock-live` — بيولّد صورة بتتحدّث كل دقيقة بالتوقيت اللي تحدده. WakaTime chart فوق ده حاجة تانية (بيتتبع وقت الكود مش الساعة)، لو عايز الساعة الحية بس هعملهالك في workflow منفصل.
 
 ---
 
