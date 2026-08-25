@@ -61,11 +61,23 @@
 
 ### 🕒 Local Time (Egypt)
 
+هنعملها بـ workflow منفصل لو حابب — الصورة اللي كانت هنا (WakaTime) اتشالت لأنها مش هتشتغل من غير ربط حساب WakaTime.
+
+---
+
+### 🧊 3D Contribution Calendar
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mohamed-Shahata&theme=radical" alt="WakaTime Stats" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
-> ملحوظة: الساعة الحية (ديجيتال كلوك بتتحدث لحظيًا) بتتعمل بـ action اسمه `Yasin-Prime/digital-clock-live` — بيولّد صورة بتتحدّث كل دقيقة بالتوقيت اللي تحدده. WakaTime chart فوق ده حاجة تانية (بيتتبع وقت الكود مش الساعة)، لو عايز الساعة الحية بس هعملهالك في workflow منفصل.
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+</p>
 
 ---
 
