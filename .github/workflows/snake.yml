@@ -19,6 +19,7 @@ jobs:
           github_user_name: Mohamed-Shahata
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#0f6e56,#1d9e75,#5dcaa5&color_dots=#161b22,#0f4a3a,#1d9e75,#5dcaa5,#9fe1cb&color_empty=#161b22
+            dist/github-contribution-grid-snake.gif?color_snake=#0f6e56,#1d9e75,#5dcaa5&color_dots=#161b22,#0f4a3a,#1d9e75,#5dcaa5,#9fe1cb&color_empty=#161b22
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
