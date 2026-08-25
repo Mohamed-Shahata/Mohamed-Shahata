@@ -16,7 +16,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🔭 Backend-focused Full-Stack Developer with **2+ years** of hands-on experience shipping production-ready apps
 - 🛠️ Backend: **Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis**
 - 🎨 Frontend: **React.js, Next.js, Tailwind CSS**
@@ -29,7 +28,6 @@
 ---
 
 ### 🧩 Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
 | **[ERP-Lite](https://github.com/Mohamed-Shahata/ERP-Lite)** | Multi-module ERP monorepo covering procure-to-pay & order-to-cash cycle, bilingual RTL frontend, defense-in-depth security | NestJS 11 · Next.js 16 · PostgreSQL · Prisma 7 |
@@ -39,7 +37,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,react,nextjs,tailwind,postgres,mongodb,redis,prisma,docker,aws,git,linux,py,cpp,graphql" />
 </p>
@@ -47,34 +44,24 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahata&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahata&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shahata&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
-
----
-
-### 🕒 Local Time (Egypt)
-
-هنعملها بـ workflow منفصل لو حابب — الصورة اللي كانت هنا (WakaTime) اتشالت لأنها مش هتشتغل من غير ربط حساب WakaTime.
 
 ---
 
 ### 🧊 3D Contribution Calendar
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/my_project/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 ---
 
 ### 💬 Quote of the Day
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
 </p>
@@ -82,7 +69,6 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
