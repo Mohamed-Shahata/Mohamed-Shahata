@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-shahata-895708261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=1D9E75" />
+    <img src="https://img.shields.io/badge/LinkedIn-1D9E75?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedmrslan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=1D9E75" />
+    <img src="https://img.shields.io/badge/Email-1D9E75?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Mohamed-Shahata" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=1D9E75" />
+    <img src="https://img.shields.io/badge/GitHub-1D9E75?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://cdn.jsdelivr.net/gh/Mohamed-Shahata/Mohamed-Shahata@main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
