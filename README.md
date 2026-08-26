@@ -6,34 +6,37 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-shahata-895708261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=1D9E75" />
   </a>
   <a href="mailto:mohamedmrslan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=1D9E75" />
+  </a>
+  <a href="https://github.com/Mohamed-Shahata" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=1D9E75" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience architecting and shipping scalable, production-ready web applications.
 
-- 🔭 Currently working as a **Full-Stack Developer @ Smartly Coded** (software agency, Egypt)
-- 💼 Also freelancing as a **Backend Developer**, building full backend systems for 5+ platforms (ERP, marathon, booking, social-job)
-- 🛠️ Backend: **Node.js, NestJS, Express.js, TypeScript, RESTful APIs, GraphQL, Clean Architecture, OOP**
-- 🎨 Frontend: **React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap**
-- 🗄️ Databases: **PostgreSQL, MongoDB, Redis, Prisma ORM**
-- 🔐 Auth & Security: **JWT, bcrypt, OAuth2 (Google), RBAC, API Security Best Practices**
-- 🐳 Cloud & DevOps: **AWS (EC2, S3), Docker, Nginx, CI/CD, GitHub Actions, Railway, Vercel**
-- 🧠 Languages: **JavaScript, TypeScript, Python (NumPy, Pandas), C++, Bash**
-- 🤖 Actively use AI tools (LLMs, GitHub Copilot) to accelerate development, debugging, and architecture decisions
-- 🎥 Arabic-language technical content creator (**Dev-Core**) — building a developer community on YouTube & TikTok
-- 📚 Self-taught developer since 2024 — continuously shipping real-world projects and deepening backend expertise
+- Currently working as a **Full-Stack Developer @ Smartly Coded** (software agency, Egypt)
+- Also freelancing as a **Backend Developer**, building full backend systems for 5+ platforms (ERP, marathon, booking, social-job)
+- Backend: **Node.js, NestJS, Express.js, TypeScript, RESTful APIs, GraphQL, Clean Architecture, OOP**
+- Frontend: **React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap**
+- Databases: **PostgreSQL, MongoDB, Redis, Prisma ORM**
+- Auth & Security: **JWT, bcrypt, OAuth2 (Google), RBAC, API Security Best Practices**
+- Cloud & DevOps: **AWS (EC2, S3), Docker, Nginx, CI/CD, GitHub Actions, Railway, Vercel**
+- Languages: **JavaScript, TypeScript, Python (NumPy, Pandas), C++, Bash**
+- Actively use AI tools (LLMs, GitHub Copilot) to accelerate development, debugging, and architecture decisions
+- Arabic-language technical content creator (**Dev-Core**) — building a developer community on YouTube & TikTok
+- Self-taught developer since 2024 — continuously shipping real-world projects and deepening backend expertise
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 **Full-Stack Developer — Smartly Coded** *(Nov 2025 – Present)*
 - Engineered a production-grade transportation booking platform (inDriver-style) using React.js and Firebase, handling real-time data for 100+ concurrent users
@@ -49,7 +52,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -59,7 +62,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,react,nextjs,tailwind,postgres,mongodb,redis,prisma,docker,aws,git,linux,py,cpp,graphql" />
@@ -67,7 +70,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **General Secondary Certificate (Thanawiya Amma)** — Egypt, 2024
 - Self-taught Full-Stack Developer since graduation (Jun 2024 – Present)
@@ -76,7 +79,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shahata&theme=radical" alt="GitHub Streak" height="165"/>
@@ -89,7 +92,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 💬 Quote of the Day
+### Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
@@ -97,7 +100,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
