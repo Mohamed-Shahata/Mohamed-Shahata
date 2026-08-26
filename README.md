@@ -8,19 +8,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-shahata-895708261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1D9E75?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedmrslan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1D9E75?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Mohamed-Shahata" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1D9E75?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.youtube.com/@Dev-Core-1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-1D9E75?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@devcore1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-1D9E75?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
@@ -50,10 +50,10 @@ Arabic-language technical content creator, building a developer community and sh
 
 <p align="center">
   <a href="https://www.youtube.com/@Dev-Core-1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Dev--Core-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev-Core YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev-Core YouTube" />
   </a>
   <a href="https://www.tiktok.com/@devcore1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Dev--Core-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Dev-Core TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Dev-Core TikTok" />
   </a>
 </p>
 
