@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shehata</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=180&section=header&text=Mohamed%20Shehata&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Header wave banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Node.js+%7C+NestJS+%7C+TypeScript;React+%7C+Next.js+%7C+Tailwind+CSS;Building+ERP-Lite+%F0%9F%9A%80" alt="Typing SVG" />
@@ -89,6 +91,21 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
   <img src="https://img.shields.io/github/followers/Mohamed-Shahata?label=Followers&style=for-the-badge&color=1D9E75" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Mohamed-Shahata?affiliations=OWNER&label=Stars&style=for-the-badge&color=1D9E75" alt="Stars" />
 </p>
+
+---
+
+### GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+### Latest from Dev-Core (YouTube)
+
+<!-- YOUTUBE-FEED:START -->
+<!-- YOUTUBE-FEED:END -->
 
 ---
 
