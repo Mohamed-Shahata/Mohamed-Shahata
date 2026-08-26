@@ -16,6 +16,12 @@
   <a href="https://github.com/Mohamed-Shahata" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-1D9E75?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.youtube.com/@Dev-Core-1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-1D9E75?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@devcore1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-1D9E75?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 ---
@@ -35,6 +41,21 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 - Actively use AI tools (LLMs, GitHub Copilot) to accelerate development, debugging, and architecture decisions
 - Arabic-language technical content creator (**Dev-Core**) — building a developer community on YouTube & TikTok
 - Self-taught developer since 2024 — continuously shipping real-world projects and deepening backend expertise
+
+---
+
+### Content Creation — Dev-Core
+
+Arabic-language technical content creator, building a developer community and sharing programming knowledge in Arabic.
+
+<p align="center">
+  <a href="https://www.youtube.com/@Dev-Core-1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Dev--Core-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev-Core YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@devcore1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Dev--Core-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Dev-Core TikTok" />
+  </a>
+</p>
 
 ---
 
@@ -102,6 +123,8 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
+---
+
 ### Quote of the Day
 
 <p align="center">
@@ -114,4 +137,10 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Shahata&color=blueviolet&style=flat" alt="Profile views" />
 </p>
