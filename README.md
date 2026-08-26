@@ -97,7 +97,7 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Mohamed-Shahata/Mohamed-Shahata@main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://cdn.jsdelivr.net/gh/Mohamed-Shahata/Mohamed-Shahata@my_project/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
