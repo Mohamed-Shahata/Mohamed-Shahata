@@ -17,14 +17,35 @@
 
 ### 🚀 About Me
 
-- 🔭 Backend-focused Full-Stack Developer with **2+ years** of hands-on experience shipping production-ready apps
-- 🛠️ Backend: **Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Redis**
-- 🎨 Frontend: **React.js, Next.js, Tailwind CSS**
-- 🔐 Deep focus on **clean architecture, auth/security (JWT, OAuth2, RBAC), and performance optimization**
-- 🐳 Comfortable with **Docker, CI/CD, AWS, Railway, Vercel**
-- 🤖 Actively use AI tools (LLMs, GitHub Copilot) to accelerate development
-- 🎥 Creating Arabic tech content on **Dev-Core** (YouTube & TikTok)
-- 📚 Self-taught developer — continuously shipping real-world projects since 2024
+Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience architecting and shipping scalable, production-ready web applications.
+
+- 🔭 Currently working as a **Full-Stack Developer @ Smartly Coded** (software agency, Egypt)
+- 💼 Also freelancing as a **Backend Developer**, building full backend systems for 5+ platforms (ERP, marathon, booking, social-job)
+- 🛠️ Backend: **Node.js, NestJS, Express.js, TypeScript, RESTful APIs, GraphQL, Clean Architecture, OOP**
+- 🎨 Frontend: **React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap**
+- 🗄️ Databases: **PostgreSQL, MongoDB, Redis, Prisma ORM**
+- 🔐 Auth & Security: **JWT, bcrypt, OAuth2 (Google), RBAC, API Security Best Practices**
+- 🐳 Cloud & DevOps: **AWS (EC2, S3), Docker, Nginx, CI/CD, GitHub Actions, Railway, Vercel**
+- 🧠 Languages: **JavaScript, TypeScript, Python (NumPy, Pandas), C++, Bash**
+- 🤖 Actively use AI tools (LLMs, GitHub Copilot) to accelerate development, debugging, and architecture decisions
+- 🎥 Arabic-language technical content creator (**Dev-Core**) — building a developer community on YouTube & TikTok
+- 📚 Self-taught developer since 2024 — continuously shipping real-world projects and deepening backend expertise
+
+---
+
+### 💼 Work Experience
+
+**Full-Stack Developer — Smartly Coded** *(Nov 2025 – Present)*
+- Engineered a production-grade transportation booking platform (inDriver-style) using React.js and Firebase, handling real-time data for 100+ concurrent users
+- Built real-time trip filtering and live data sync, reducing manual dispatch coordination by ~40%
+- Configured Firebase Authentication and Firestore, supporting multi-role permission systems (rider, driver, admin)
+- Adopted Next.js and new tooling on the job, cutting initial page load time by 25% via SSR optimization
+
+**Backend Developer — Freelance / Self-Employed** *(Jun 2024 – Present)*
+- Architected full backend systems for 5+ platforms (ERP, marathon, booking, social-job) using Node.js, NestJS, and TypeScript
+- Enforced OAuth2, JWT authentication, RBAC, and Zod/class-validator API validation, reducing unauthorized access attempts to near zero
+- Applied CI/CD pipelines with GitHub Actions, cutting deployment time from ~30 minutes (manual) to 5 minutes (automated)
+- Containerized services with Docker and Nginx; executed zero-downtime deployments on Railway and Vercel across 4+ projects
 
 ---
 
@@ -32,9 +53,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ERP-Lite](https://github.com/Mohamed-Shahata/ERP-Lite)** | Multi-module ERP monorepo covering procure-to-pay & order-to-cash cycle, bilingual RTL frontend, defense-in-depth security | NestJS 11 · Next.js 16 · PostgreSQL · Prisma 7 |
-| **[Courses Platform](https://github.com/Mohamed-Shahata/Courses_platform)** | E-learning backend with enrollment, progress tracking, and payments | Node.js · TypeScript · PostgreSQL/MongoDB · Redis |
-| **[Booking Platform](https://github.com/Mohamed-Shahata/booking-platform)** | Consultation booking backend with multi-step booking flows | Node.js · NestJS |
+| **[ERP-Lite](https://github.com/Mohamed-Shahata/ERP-Lite)** | Multi-module ERP monorepo (14+ business modules) covering the full procure-to-pay & order-to-cash cycle. Bilingual (EN/AR) RTL frontend, role-based routing, in-memory TTL caching, defense-in-depth security (Helmet, rate limiting, DTO sanitization) | NestJS 11 · Next.js 16 · React 19 · PostgreSQL · Prisma 7 |
+| **[Courses Platform](https://github.com/Mohamed-Shahata/Courses_platform)** | E-learning backend supporting instructor course creation, student enrollment, progress tracking, and payment integration. ~35% faster API response via query optimization + Redis caching | Node.js · TypeScript · PostgreSQL/MongoDB · Redis |
+| **[Booking Platform](https://github.com/Mohamed-Shahata/booking-platform)** | Consultation booking backend enabling expert discovery, session booking, and payment processing across 3 service types | Node.js · NestJS |
 
 ---
 
@@ -46,15 +67,19 @@
 
 ---
 
+### 🎓 Education & Certifications
+
+- **General Secondary Certificate (Thanawiya Amma)** — Egypt, 2024
+- Self-taught Full-Stack Developer since graduation (Jun 2024 – Present)
+- **Introduction to Cybersecurity** — Cisco Networking Academy *(Oct 2025)*
+- **Python – Key Skills** — Labble Course *(Oct 2025)*
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahata&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shahata&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical&hide=jupyter+notebook" alt="Top Langs" />
 </p>
 
 <p align="center">
