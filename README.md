@@ -102,11 +102,6 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
-### Latest from Dev-Core (YouTube)
-
-<!-- YOUTUBE-FEED:START -->
-<!-- YOUTUBE-FEED:END -->
-
 ---
 
 ### Quote of the Day
