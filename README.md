@@ -49,12 +49,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahata&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shahata&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shahata&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shahata&layout=compact&theme=radical&hide=jupyter+notebook" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Mohamed-Shahata?label=Followers&style=for-the-badge&color=1D9E75" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mohamed-Shahata?affiliations=OWNER&label=Stars&style=for-the-badge&color=1D9E75" alt="Stars" />
 </p>
 
 ---
