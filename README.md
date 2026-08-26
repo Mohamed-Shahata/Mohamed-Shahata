@@ -102,8 +102,6 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 ---
 
----
-
 ### Quote of the Day
 
 <p align="center">
@@ -116,10 +114,4 @@ Results-driven **Full-Stack Developer** with **2+ years** of hands-on experience
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Shahata&color=blueviolet&style=flat" alt="Profile views" />
 </p>
