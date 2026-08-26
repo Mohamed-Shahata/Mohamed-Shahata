@@ -123,8 +123,6 @@ Arabic-language technical content creator, building a developer community and sh
 
 ---
 
----
-
 ### Quote of the Day
 
 <p align="center">
@@ -137,10 +135,4 @@ Arabic-language technical content creator, building a developer community and sh
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohamed-Shahata/Mohamed-Shahata/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Shahata&color=blueviolet&style=flat" alt="Profile views" />
 </p>
